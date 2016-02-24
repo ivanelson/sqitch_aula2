@@ -3,3 +3,4 @@
 %uri=https://github.com/ivanelson/sqitch_aula2
 
 schema_escola 2016-02-24T14:13:54Z Ivan Nunes <ivan.nunes@iv4n.com> # Add schema for escola
+aluno 2016-02-24T14:34:04Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria tabela de alunos
